@@ -3,7 +3,7 @@ import sys
 
 import cv2
 from sklearn.datasets import load_files
-from keras.utils import np_utils
+# from keras.utils import np_utils
 import re
 import os
 import pickle
